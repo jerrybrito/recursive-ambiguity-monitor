@@ -1,0 +1,2 @@
+# Requires: unlikely-stasis
+# (Not available on PyPI)
